@@ -1,0 +1,20 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A sample Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo Build process not defined",
+    "test": "echo Test process not defined"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"  // 예: Express.js를 사용하는 경우
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"  // 예: 개발 도구로 Nodemon 추가
+  }
+}
